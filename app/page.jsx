@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Logo from "./utils/icons/logo";
+import Logo from "./utils/icons/Logo";
 import { ListBullets, CaretUp } from "@phosphor-icons/react/dist/ssr";
 
 
