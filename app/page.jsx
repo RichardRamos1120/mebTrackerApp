@@ -18,12 +18,12 @@ export default function Home() {
           <ListBullets size={20} weight="bold" />
           <CaretUp size={20} weight="bold" />
         </div>
-          <a href="/page">Congo</a>
-          <a href="/page">Ethiopia</a>
-          <a href="/page">Kenya</a>
-          <a href="/page">Somalia</a>
-          <a href="/page">South Sudan</a>
-          <a href="/page">Sudan</a>
+          <a href="/congo">Congo</a>
+          <a href="/ethiopia">Ethiopia</a>
+          <a href="/kenya">Kenya</a>
+          <a href="/somalia">Somalia</a>
+          <a href="/south-sudan">South Sudan</a>
+          <a href="/sudan">Sudan</a>
         </nav>
       </div>
 
