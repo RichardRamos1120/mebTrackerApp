@@ -89,7 +89,7 @@ const Page = async () => {
                     <Charts data={chartData} options={options} />
                 </div>
                 <div className="container-card">
-                    <Map lng={Number(dataList.longitude)} lat={Number(dataList.latitude)} text="Congo"  />
+                    <Map lng={Number(dataList.longitude)} lat={Number(dataList.latitude)} text=""  />
                 </div>
             </div>
         </div>
