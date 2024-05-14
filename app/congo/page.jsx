@@ -6,7 +6,7 @@ const Page = async () => {
     const currentDate = new Date();
     const formattedDate = currentDate.toDateString();
 
-    const res = await fetch('https://85c9-120-29-78-26.ngrok-free.app/api/congo',{
+    const res = await fetch('http://137.184.224.29:3001/api/congo',{
         next: { revalidate: 0 },
       });
 
